@@ -1,11 +1,11 @@
 #StriversSheetChallenge <br>
 Arrays-1 <br>
-1:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/001.%20Set%20Matrix%20Zeros%20%7C%20LC%20-%2073%20%7C%20Arrays%20-%201.cpp'> Set Matrix Zero <br>
-2:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/002.%20Pascal's%20Triangle%20%7C%20LC%20-%20118%20%7C%20Arrays%20-%201.cpp'> Pascal's Triangle <br>
-3:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/003.%20Next%20Permutation%20%7C%20LC-%2031%20%7C%20Arrays%20-%201.cpp'> Next Permutation <br>
-4:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/004.%20Kadane's%20Algorithm%20%7C%20LC%20-%2053%20%7C%20Arrays%20-%201.cpp'> Kadane's Algorithm <br>
-5:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/005.%20Sort%20an%20Arrays%20of%200's%2C%201's%20and%202's%20%7C%20LC%20-%2075%20%7C%20Arrays%20-%201.cpp'> Sort an array of 0's, 1's & 2's <br>
-6:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/006.%20Stock%20Buy%20and%20Sell%20%7C%20LC%20-%20121%20%7C%20Arrays%20-%201.cpp'> Stock Buy and Sell <br>
+1:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/001.%20Set%20Matrix%20Zeros%20%7C%20LC%20-%2073%20%7C%20Arrays%20-%201.cpp'> Set Matrix Zero </a>  <br>
+2:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/002.%20Pascal's%20Triangle%20%7C%20LC%20-%20118%20%7C%20Arrays%20-%201.cpp'> Pascal's Triangle </a>  <br>
+3:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/003.%20Next%20Permutation%20%7C%20LC-%2031%20%7C%20Arrays%20-%201.cpp'> Next Permutation </a>  <br>
+4:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/004.%20Kadane's%20Algorithm%20%7C%20LC%20-%2053%20%7C%20Arrays%20-%201.cpp'> Kadane's Algorithm </a>  <br>
+5:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/005.%20Sort%20an%20Arrays%20of%200's%2C%201's%20and%202's%20%7C%20LC%20-%2075%20%7C%20Arrays%20-%201.cpp'> Sort an array of 0's, 1's & 2's </a>  <br>
+6:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/006.%20Stock%20Buy%20and%20Sell%20%7C%20LC%20-%20121%20%7C%20Arrays%20-%201.cpp'> Stock Buy and Sell </a>  <br>
 
 Arrays-2 <br>
 7:	<a href=''> Rotate Matrix </a> <br>
