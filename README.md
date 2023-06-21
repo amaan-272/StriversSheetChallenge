@@ -1,19 +1,19 @@
-#StriversSheetChallenge		
+#StriversSheetChallenge <br>
 Arrays-1 <br>
-1:	Set Matrix Zero <br>
-2:	Pascal's Triangle <br>
-3:	Next Permutation <br>
-4:	Kadane's Algorithm <br>
-5:	Sort an array of 0's, 1's & 2's <br>
-6:	Stock Buy and Sell <br>
+1:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/001.%20Set%20Matrix%20Zeros%20%7C%20LC%20-%2073%20%7C%20Arrays%20-%201.cpp'> Set Matrix Zero <br>
+2:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/002.%20Pascal's%20Triangle%20%7C%20LC%20-%20118%20%7C%20Arrays%20-%201.cpp'> Pascal's Triangle <br>
+3:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/003.%20Next%20Permutation%20%7C%20LC-%2031%20%7C%20Arrays%20-%201.cpp'> Next Permutation <br>
+4:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/004.%20Kadane's%20Algorithm%20%7C%20LC%20-%2053%20%7C%20Arrays%20-%201.cpp'> Kadane's Algorithm <br>
+5:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/005.%20Sort%20an%20Arrays%20of%200's%2C%201's%20and%202's%20%7C%20LC%20-%2075%20%7C%20Arrays%20-%201.cpp'> Sort an array of 0's, 1's & 2's <br>
+6:	<a href='https://github.com/amaan-272/StriversSheetChallenge/blob/main/006.%20Stock%20Buy%20and%20Sell%20%7C%20LC%20-%20121%20%7C%20Arrays%20-%201.cpp'> Stock Buy and Sell <br>
 
 Arrays-2 <br>
-7:	Rotate Matrix <br>
-8:	Merge Overlapping Subintervals <br>
-9:	Merge two sorted arrays without an extra array <br>
-10:	Find the duplicate in an array of n+1 integers <br>
-11:	Repeated and Missing Numbers <br>
-12:	Inversion of Array <br>
+7:	<a href=''> Rotate Matrix </a> <br>
+8:	<a href=''> Merge Overlapping Subintervals </a> <br>
+9:	<a href=''> Merge two sorted arrays without an extra array </a> <br>
+10:	<a href=''> Find the duplicate in an array of n+1 integers </a> <br>
+11:	<a href=''> Repeated and Missing Numbers </a> <br>
+12:	<a href=''> Inversion of Array </a> <br>
 
 Arrays-3 <br>
 13:	Search in a 2D matrix <br>
