@@ -1,27 +1,27 @@
 # StriversSheetChallenge		
-Arrays-1		
+Arrays-1 <br>
 1:	Set Matrix Zero <br>
-2:	Pascal's Triangle
-3:	Next Permutation
-4:	Kadane's Algorithm
-5:	Sort an array of 0's, 1's & 2's
-6:	Stock Buy and Sell
+2:	Pascal's Triangle <br>
+3:	Next Permutation <br>
+4:	Kadane's Algorithm <br>
+5:	Sort an array of 0's, 1's & 2's <br>
+6:	Stock Buy and Sell <br>
 
-Arrays-2		
-7:	Rotate Matrix
-8:	Merge Overlapping Subintervals
-9:	Merge two sorted arrays without an extra array
-10:	Find the duplicate in an array of n+1 integers
-11:	Repeated and Missing Numbers
-12:	Inversion of Array
+Arrays-2 <br>
+7:	Rotate Matrix <br>
+8:	Merge Overlapping Subintervals <br>
+9:	Merge two sorted arrays without an extra array <br>
+10:	Find the duplicate in an array of n+1 integers <br>
+11:	Repeated and Missing Numbers <br>
+12:	Inversion of Array <br>
 
-Arrays-3		
-13:	Search in a 2D matrix 
-14:	Pow(x, n)
-15:	Majority Element (n/2)
-16:	Majority Element (n/3)
-17:	Grid Unique Paths
-18:	Reverse Pairs
+Arrays-3 <br>
+13:	Search in a 2D matrix <br>
+14:	Pow(x, n) <br>
+15:	Majority Element (n/2) <br>
+16:	Majority Element (n/3) <br>
+17:	Grid Unique Paths <br>
+18:	Reverse Pairs <br>
 
 Arrays-4		
 19:	2Sum
@@ -241,4 +241,3 @@ Trie
 187:	Power Set
 188:	Maximum XOR of two numbers in an array
 189:	Maximum XOR of number in an array
-![image](https://github.com/amaan-272/StriversSheetChallenge/assets/97755687/bd3c2125-1568-42a6-88cf-cd4309255114)
