@@ -1,6 +1,6 @@
 # StriversSheetChallenge		
 Arrays-1		
-1:	Set Matrix Zero
+1:	Set Matrix Zero <br>
 2:	Pascal's Triangle
 3:	Next Permutation
 4:	Kadane's Algorithm
