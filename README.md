@@ -12,3 +12,11 @@ Questions Today: 8 (4E, 4M) <br>
 Total Questions: 16 (8E, 8M) <br>
 Rank before starting: 1560 <br>
 Rank after completion: 1128  <br>
+Completed Sets: Array-1 <be>
+
+Day 3 (June 22): Solved 3 more from Array-2 set and 5 from the Array-2 set. <br>
+Questions Today: 6 (4E, 4M) <br>
+Total Questions: 16 (8E, 8M) <br>
+Rank before starting: 1560 <br>
+Rank after completion: 1128  <br>
+Completed Sets: Array-1, Array-2, Array-3 <be>
