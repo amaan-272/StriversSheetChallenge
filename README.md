@@ -12,11 +12,18 @@ Questions Today: 8 (4E, 4M) <br>
 Total Questions: 16 (8E, 8M) <br>
 Rank before starting: 1560 <br>
 Rank after completion: 1128  <br>
-Completed Sets: Array-1 <be>
+Completed Sets: Array-1 
 
 Day 3 (June 22): Solved 1 remaining from Array-1 set, 1 remaining from the Array-3 set and 4 from Array-3 set. <br>
 Questions Today: 6 (1E, 4M, 1H) <br>
 Total Questions: 16 (9E, 12M, 1H) <br>
 Rank before starting: 1141 <br>
 Rank after completion: 914  <br>
-Completed Sets: Array-1, Array-2, Array-3 <be>
+Completed Sets: Array-1, Array-2, Array-3 
+
+Day 4 (June 23): 
+Questions Today: 
+Total Questions: 
+Rank before starting: 933 <br>
+Rank after completion:
+Completed Sets: 
