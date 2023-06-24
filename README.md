@@ -25,7 +25,7 @@ Day 4 (June 23):
 Questions Today: 7 (3E, 4M) <br>
 Total Questions: 29 (12E, 16M, 1H) [15.76%] [20%,15.53%,4.76%]<br>
 Rank before starting: 933 <br>
-Rank after completion: 786 <br> <p>&#1575;&#1604;&#1607;&#1605;&#1581;&#1604;&#1607;&#1604;&#1581;</p>
+Rank after completion: 786 &#1575;&#1604;&#1607;&#1605;&#1581;&#1604;&#1607;&#1604;&#1581; <br>
 Completed Sets: Array-1, Array-2, Array-3, Linked List-1
 
 Day 5 (June 24): 
