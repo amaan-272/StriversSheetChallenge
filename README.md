@@ -36,6 +36,14 @@ Day 5 (June 24):
 Questions Today: 7 (3E, 4M) <br>
 Total Questions: 36 (15E, 20M, 1H) [19.57%] [25%,19.42%,4.76%]<br>
 Rank before starting: 826 <br>
-Rank after completion:
+Rank after completion: 660 <br>
+Completed Sets: Array-1, Array-2, Array-3, Linked List-1 <br>
+Difficulty faced: Array-4(5), Linked List-2(3), Linked List-2(6), Linked List & Arrays (2), Linked List & Arrays (3) <br>
+
+Day 6 (June 25): 
+Questions Today:  <br>
+Total Questions: 36 (15E, 20M, 1H) [19.57%] [25%,19.42%,4.76%]<br>
+Rank before starting: 667 <br>
+Rank after completion:  <br>
 Completed Sets: Array-1, Array-2, Array-3, Linked List-1 <br>
 Difficulty faced: Array-4(5), Linked List-2(3), Linked List-2(6), Linked List & Arrays (2), Linked List & Arrays (3) <br>
