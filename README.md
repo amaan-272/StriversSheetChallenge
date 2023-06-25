@@ -47,3 +47,11 @@ Rank before starting: 667 <br>
 Rank after completion: 556 <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays <br>
 Difficulty faced: Linked List-2(3), Greedy Algorithm (1) <br>
+
+Day 6 (June 25): <br>
+Questions Today: 7 (2E, 5M) <br>
+Total Questions: 43 (17E, 25M, 1H) [23.37%] [28.33%,24.27%,4.76%]<br>
+Rank before starting: 570 <br>
+Rank after completion:  <br>
+Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays <br>
+Difficulty faced: Linked List-2(3), Greedy Algorithm (1) <br>
