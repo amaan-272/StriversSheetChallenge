@@ -48,10 +48,10 @@ Rank after completion: 556 <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays <br>
 Difficulty faced: Linked List-2(3), Greedy Algorithm (1) <br>
 
-Day 6 (June 25): <br>
-Questions Today: 7 (2E, 5M) <br>
-Total Questions: 43 (17E, 25M, 1H) [23.37%] [28.33%,24.27%,4.76%]<br>
+Day 7 (June 26): Solved 3 from Greedy Algorithm, 4 from Recursion and 1 from Recursion & Backtracking <br>
+Questions Today: 8 (4E, 3M, 1H) <br>
+Total Questions: 51 (21E, 28M, 2H) [27.72%] [35%,27.19%,9.52%]<br>
 Rank before starting: 570 <br>
 Rank after completion:  <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays <br>
-Difficulty faced: Linked List-2(3), Greedy Algorithm (1) <br>
+Difficulty faced: Linked List-2(3), Greedy Algorithm (1), Recursion (3), Recursion (4), Recursion & Backtracking (1) <br>
