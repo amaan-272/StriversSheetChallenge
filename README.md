@@ -24,7 +24,7 @@ Rank after completion: 914  <br>
 Completed Sets: Array-1, Array-2, Array-3 <br>
 Difficulty faced: Array-4(4), Array-4(5) <br>
 
-Day 4 (June 23): 
+Day 4 (June 23): Solved 1 from Array-4 and Linked List-1 complete set of 6 problems. <br>
 Questions Today: 7 (3E, 4M) <br>
 Total Questions: 29 (12E, 16M, 1H) [15.76%] [20%,15.53%,4.76%]<br>
 Rank before starting: 933 <br>
@@ -32,7 +32,7 @@ Rank after completion: 786 &#1575;&#1604;&#1607;&#1605;&#1581;&#1604;&#1607;&#16
 Completed Sets: Array-1, Array-2, Array-3, Linked List-1 <br>
 Difficulty faced: Array-4(5) <br>
 
-Day 5 (June 24): 
+Day 5 (June 24): Solved 4 from Linked List-2 and 3 from Linked List and Arrays. <br>
 Questions Today: 7 (3E, 4M) <br>
 Total Questions: 36 (15E, 20M, 1H) [19.57%] [25%,19.42%,4.76%]<br>
 Rank before starting: 826 <br>
@@ -40,10 +40,10 @@ Rank after completion: 660 <br>
 Completed Sets: Array-1, Array-2, Array-3, Linked List-1 <br>
 Difficulty faced: Array-4(5), Linked List-2(3), Linked List-2(6), Linked List & Arrays (2), Linked List & Arrays (3) <br>
 
-Day 6 (June 25): 
-Questions Today:  <br>
-Total Questions: 36 (15E, 20M, 1H) [19.57%] [25%,19.42%,4.76%]<br>
+Day 6 (June 25): Solved 1 remaining from Arrays-4, 1 from Linked List-2, remaining 3 from Linked List & Arrays and 2 from Greedy Algorithm. <br>
+Questions Today: 7 (2E, 5M) <br>
+Total Questions: 43 (17E, 25M, 1H) [23.37%] [28.33%,24.27%,4.76%]<br>
 Rank before starting: 667 <br>
 Rank after completion:  <br>
-Completed Sets: Array-1, Array-2, Array-3, Linked List-1 <br>
-Difficulty faced: Array-4(5), Linked List-2(3), Linked List-2(6), Linked List & Arrays (2), Linked List & Arrays (3) <br>
+Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays <br>
+Difficulty faced: Linked List-2(3), Greedy Algorithm (1) <br>
