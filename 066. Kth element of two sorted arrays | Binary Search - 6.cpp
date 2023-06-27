@@ -1,5 +1,5 @@
 //CodeStudio Code#include <bits/stdc++.h>
-
+ 
 int ninjaAndLadoos(vector<int> &row1, vector<int> &row2, int n, int m, int k) {
     if(n > m) return ninjaAndLadoos(row2, row1, m, n, k);
     int low = max(0, k-m), high = min(n, k); 
