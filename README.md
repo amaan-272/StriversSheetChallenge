@@ -79,6 +79,6 @@ Day 8 (June 27): Solved 1 from Binary Search and 5 from Heaps <br>
 Questions Today: 6 (2E,2M,2H) <br>
 Total Questions: 63 (25E, 33M, 5H) [34.24%] [41.67%,32.04%,23.81%]<br>
 Rank before starting: 392 <br>
-Rank after completion:  <br>
+Rank after completion: 339 <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays <br>
 Difficulty faced: Linked List-2(3), Greedy Algorithm (1), Recursion (3), Recursion (4), Recursion & Backtracking (1), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binart Search(7), Binary Search(8)  <br>
