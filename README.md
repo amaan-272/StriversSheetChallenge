@@ -70,12 +70,12 @@ Total Questions: 63 (25E, 33M, 5H) [34.24%] [41.67%,32.04%,23.81%]<br>
 Rank before starting: 392 <br>
 Rank after completion: 339 <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays <br>
-Difficulty faced: Linked List-2(3), Greedy Algorithm (1), Recursion (3), Recursion (4), Recursion & Backtracking (1), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binart Search(7), Binary Search(8)  <br>
+Difficulty faced: Linked List-2(3), Greedy Algorithm (1), Recursion (3), Recursion (4), Recursion & Backtracking (1), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8)  <br>
 
-Day 9 (June 29): Solved 1 remaining from Heaps, Stack & Queue - 1 complete set of 5 (7, but 2 unavailable) problems, and 1 from Stack & Queue - 2 <br> 
+Day 9 (June 29): Solved 1 remaining from Heaps, Stack & Queue-1 complete set of 5 (7, but 2 unavailable) problems, and 1 from Stack & Queue-2 <br> 
 Questions Today: 7 (2E,5M) <br>
 Total Questions: 70(72) (27E, 38M, 5H) [38.04%] [45%,36.89%,23.81%]<br>
 Rank before starting: 352 <br>
 Rank after completion:  <br>
-Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays, Heaps, Stack & Queue - 1 <br>
-Difficulty faced: Linked List-2(3), Greedy Algorithm (1), Recursion (3), Recursion (4), Recursion & Backtracking (1), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binart Search(7), Binary Search(8)  <br>
+Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays, Heaps, Stack & Queue-1 <br>
+Difficulty faced: Linked List-2(3), Greedy Algorithm (1), Recursion (3), Recursion (4), Recursion & Backtracking (1), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8)  <br>
