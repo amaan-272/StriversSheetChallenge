@@ -106,7 +106,7 @@ Difficulty faced: Greedy Algorithm (1), Recursion (3), Recursion & Backtracking 
 
 Day 14 (July 03):  <br> 
 Questions Today:  (E,M,H) <br>
-Total Questions: 90(92) (36E, 45M, 9H) [48.91%] [60%,43.69%,42.86%]<br>
+Total Questions: 90(94) (36E, 45M, 9H) [48.91%] [60%,43.69%,42.86%]<br>
 Rank before starting: 285 <br>
 Rank after completion:  <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Heaps, Stack & Queue-1, String-1. String-2 <br>
