@@ -1,6 +1,6 @@
 #StriversSheetChallenge <br>
 Coding Ninjas Profile: https://www.codingninjas.com/studio/profile/amaan272 <br>
-LeetCode Profile: https://leetcode.com/amaan_272/ <br>
+LeetCode Profile: https://leetcode.com/amaan_272/ <br> 
 
 Day 1 (June 20): Solved Array-1 complete set of 6 problems, and 2 from Array-2. <br>
 Total Questions: 8 (4E, 4M) [4.35%] [6.67%,3.88%,0%] <br>
