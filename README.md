@@ -72,58 +72,58 @@ Rank after completion: 339 <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays <br>
 Difficulty faced: Linked List-2(3), Greedy Algorithm (1), Recursion (3), Recursion (4), Recursion & Backtracking (1), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8)  <br>
 
-Day 10 (June 29): Solved 1 remaining from Heaps, Stack & Queue-1 complete set of 5 (7, but 2 unavailable) problems, and 1 from Stack & Queue-2 <br> 
+Day 10 (June 29): Solved 1 remaining from Heaps, 5 from Stack & Queue-1, and 1 from Stack & Queue-2 <br> 
 Questions Today: 7 (2E, 5M) <br>
 Total Questions: 70(72) (27E, 38M, 5H) [38.04%] [45%,36.89%,23.81%]<br>
 Rank before starting: 352 <br>
 Rank after completion: 294 <br>
-Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays, Heaps, Stack & Queue-1 <br>
-Difficulty faced: Linked List-2(3), Greedy Algorithm (1), Recursion (3), Recursion (4), Recursion & Backtracking (1), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8)  <br>
+Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays, Heaps <br>
+Difficulty faced: Linked List-2(3), Greedy Algorithm (1), Recursion (3), Recursion (4), Recursion & Backtracking (1), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8), Stack & Queue-1(1), Stack & Queue-1(2)  <br>
 
 Day 11 (June 30): Solved 5 from Stack & Queue-1 and 2 from String-1 <br> 
 Questions Today: 6 (2E, 3M, 1H) <br>
-Total Questions: 76(78) (29E, 41M, 6H) [40.22%] [48.33%,39.81%,28.57%]<br>
+Total Questions: 76 (29E, 41M, 6H) [40.22%] [48.33%,39.81%,28.57%]<br>
 Rank before starting: 318 <br>
 Rank after completion: 280 <br>
-Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays, Heaps, Stack & Queue-1 <br>
-Difficulty faced: Linked List-2(3), Greedy Algorithm (1), Recursion (3), Recursion (4), Recursion & Backtracking (1), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8), Stack & Queue-2 (2), Stack & Queue-2 (3), Stack & Queue-2 (6), Stack & Queue-2 (7), Stack & Queue-2 (9)  <br>
+Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays, Heaps <br>
+Difficulty faced: Linked List-2(3), Greedy Algorithm (1), Recursion (3), Recursion (4), Recursion & Backtracking (1), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8), Stack & Queue-1(1), Stack & Queue-1(2), Stack & Queue-2 (2), Stack & Queue-2 (3), Stack & Queue-2 (6), Stack & Queue-2 (7), Stack & Queue-2 (9)  <br>
 
 Day 12 (July 01): Solved 3 from String-1 and 4 from String-2 <br> 
 Questions Today: 7 (4E, 2M, 1H) <br>
 Total Questions: 83(85) (33E, 43M, 7H) [45.11%] [55%,41.75%,33.33%]<br>
 Rank before starting: 294 <br>
 Rank after completion: 254 <br>
-Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays, Heaps, Stack & Queue-1 <br>
-Difficulty faced: Linked List-2(3), Greedy Algorithm (1), Recursion (3), Recursion (4), Recursion & Backtracking (1), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8), Stack & Queue-2 (2), Stack & Queue-2 (3), Stack & Queue-2 (6), Stack & Queue-2 (7), Stack & Queue-2 (9), String-1(6), String-2(1)  <br>
+Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays, Heaps <br>
+Difficulty faced: Linked List-2(3), Greedy Algorithm (1), Recursion (3), Recursion (4), Recursion & Backtracking (1), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8), Stack & Queue-1(1), Stack & Queue-1(2), Stack & Queue-2 (2), Stack & Queue-2 (3), Stack & Queue-2 (6), Stack & Queue-2 (7), Stack & Queue-2 (9), String-1(6), String-2(1)  <br>
 
-Day 13 (July 02): Solved the last remaining of Linked List-2, 1 from Recursion, 1 from Recursion & Backtracking, 1 from Stack & Queue-2, 1 remaining from String-1, and last 2 remaining from String-2 <br> 
+Day 13 (July 02): Solved the last remaining of Linked List-2, 1 from Recursion, 1 from Recursion & Backtracking, 1 from Stack & Queue-2, 1 from String-1, and last 2 remaining from String-2 <br> 
 Questions Today: 7 (3E, 2M, 2H) <br>
-Total Questions: 90(92) (36E, 45M, 9H) [48.91%] [60%,43.69%,42.86%]<br>
+Total Questions: 90 (36E, 45M, 9H) [48.91%] [60%,43.69%,42.86%]<br>
 Rank before starting: 293 <br>
 Rank after completion: 266 <br>
-Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Heaps, Stack & Queue-1, String-1, String-2 <br>
-Difficulty faced: Greedy Algorithm (1), Recursion (3), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8), Stack & Queue-2 (2), Stack & Queue-2 (3), Stack & Queue-2 (7), Stack & Queue-2 (9)  <br>
+Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Heaps, String-1, String-2 <br>
+Difficulty faced: Greedy Algorithm (1), Recursion (3), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8), Stack & Queue-1(1), Stack & Queue-1(2), Stack & Queue-2 (2), Stack & Queue-2 (3), Stack & Queue-2 (7), Stack & Queue-2 (9)  <br>
 
 Day 14 (July 03): Solved 9 problems from Binary Tree-1 <br> 
 Questions Today: 7 (5E, 2M) <br>
-Total Questions: 97(101) (41E, 47M, 9H) [52.72%] [68.33%,45.63%,42.86%]<br>
+Total Questions: 97(99) (41E, 47M, 9H) [52.72%] [68.33%,45.63%,42.86%]<br>
 Rank before starting: 285 <br>
 Rank after completion: 254 <br>
-Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Heaps, Stack & Queue-1, String-1. String-2 <br>
-Difficulty faced: Greedy Algorithm (1), Recursion (3), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8), Stack & Queue-2 (2), Stack & Queue-2 (3), Stack & Queue-2 (7), Stack & Queue-2 (9)  <br>
+Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Heaps, String-1. String-2 <br>
+Difficulty faced: Greedy Algorithm (1), Recursion (3), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8), Stack & Queue-1(1), Stack & Queue-1(2), Stack & Queue-2 (2), Stack & Queue-2 (3), Stack & Queue-2 (7), Stack & Queue-2 (9)  <br>
 
 Day 15 (July 04): Solved 2 problems for Binary Tree-1 and 5 from Binary Tree-2 <br> 
 Questions Today: 7 (2E, 5M) <br>
-Total Questions: 104(108) (43E, 52M, 9H) [56.52%] [71.67%,50.49%,42.86%]<br>
+Total Questions: 104(106) (43E, 52M, 9H) [56.52%] [71.67%,50.49%,42.86%]<br>
 Rank before starting: 274 <br>
 Rank after completion: 234 <br>
-Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Heaps, Stack & Queue-1, String-1, String-2 <br>
-Difficulty faced: Greedy Algorithm (1), Recursion (3), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8), Stack & Queue-2 (2), Stack & Queue-2 (3), Stack & Queue-2 (7), Stack & Queue-2 (9), Binary Tree-1(12), Binary Tree-2(2)  <br>
+Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Heaps, String-1, String-2 <br>
+Difficulty faced: Greedy Algorithm (1), Recursion (3), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8),  Stack & Queue-1(1), Stack & Queue-1(2), Stack & Queue-2 (2), Stack & Queue-2 (3), Stack & Queue-2 (7), Stack & Queue-2 (9), Binary Tree-1(12), Binary Tree-2(2)  <br>
 
 Day 16 (July 05): Solved 2 from Recursion & Backtracking, 2 remaining from Binary Search, 1 from Stack & Queue-2,  and last from Binary Tree-1 <br> 
 Questions Today: 6 (1E, 4M, 1H) <br>
-Total Questions: 110(114) (44E, 56M, 10H) [59.78%] [71.67%,54.37%,47.62%]<br>
+Total Questions: 110(112) (44E, 56M, 10H) [59.78%] [71.67%,54.37%,47.62%]<br>
 Rank before starting: 235 <br>
 Rank after completion: 208 <br>
-Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Binary Search, Heaps, Stack & Queue-1, String-1, String-2, Binary Tree-1 <br>
-Difficulty faced: Greedy Algorithm (1), Recursion (3), Recursion & Backtracking (6), Stack & Queue-2(2), Stack & Queue-2(3), Stack & Queue-2 (7), Binary Tree-2(2)  <br>
+Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Binary Search, Heaps, String-1, String-2, Binary Tree-1 <br>
+Difficulty faced: Greedy Algorithm (1), Recursion (3), Recursion & Backtracking (6), Stack & Queue-1(1), Stack & Queue-1(2), Stack & Queue-2(2), Stack & Queue-2(3), Stack & Queue-2 (7), Binary Tree-2(2)  <br>
