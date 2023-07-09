@@ -90,7 +90,7 @@ Difficulty faced: Linked List-2(3), Greedy Algorithm (1), Recursion (3), Recursi
 
 Day 12 (July 01): Solved 3 from String-1 and 4 from String-2 <br> 
 Questions Today: 7 (4E, 2M, 1H) <br>
-Total Questions: 83(85) (33E, 43M, 7H) [45.11%] [55%,41.75%,33.33%]<br>
+Total Questions: 83 (33E, 43M, 7H) [45.11%] [55%,41.75%,33.33%]<br>
 Rank before starting: 294 <br>
 Rank after completion: 254 <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List & Arrays, Heaps <br>
@@ -104,7 +104,7 @@ Rank after completion: 266 <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Heaps, String-1, String-2 <br>
 Difficulty faced: Greedy Algorithm (1), Recursion (3), Recursion & Backtracking (4), Recursion & Backtracking (5), Recursion & Backtracking (6), Binary Search(7), Binary Search(8), Stack & Queue-1(1), Stack & Queue-1(2), Stack & Queue-2 (2), Stack & Queue-2 (3), Stack & Queue-2 (7), Stack & Queue-2 (9)  <br>
 
-Day 14 (July 03): Solved 9 problems from Binary Tree-1 <br> 
+Day 14 (July 03): Solved 7 problems from Binary Tree-1. (Preorder Traversal, Inorder Traversal were duplicates.) <br> 
 Questions Today: 7 (5E, 2M) <br>
 Total Questions: 97(99) (41E, 47M, 9H) [52.72%] [68.33%,45.63%,42.86%]<br>
 Rank before starting: 285 <br>
@@ -168,10 +168,10 @@ Rank after completion: 158 <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Recursion, Recursion & Backtracking, Binary Search, Heaps, Stack & Queue-1, Stack & Queue-2, String-1, String-2, Binary Tree-1, Binary Tree-3 <br>
 Difficulty faced: Greedy Algorithm (1), Binary Tree-2(2), Binary Search Tree-1(5), Binary Search Tree-1(6), Binary Search Tree-2(7), Binary Search Tree-2(8), Binary Tee (Misc)(4) <br>
 
-Day 20-2 (July 09-2): ) <br> 
-Questions Today:  (E, M, H) <br>
-Total Questions: 142(144) (55E, 73M, 14H) [77.17%] [91.67%,70.87%,66.67%]<br>
+Day 20-2 (July 09-2): Solved 6 problems from Graph-1 (Cycle Detection in Directed Graph, Cycle Detection in Directed Graph, Topological Sort were duplicates)<br> 
+Questions Today: 6 (1E, 5M) <br>
+Total Questions: 148(153) (56E, 78M, 14H) [80.43%] [93.33%,75.73%,66.67%]<br>
 Rank before starting: 162 <br>
-Rank after completion:  <br>
+Rank after completion: 145 <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Recursion, Recursion & Backtracking, Binary Search, Heaps, Stack & Queue-1, Stack & Queue-2, String-1, String-2, Binary Tree-1, Binary Tree-3 <br>
 Difficulty faced: Greedy Algorithm (1), Binary Tree-2(2), Binary Search Tree-1(5), Binary Search Tree-1(6), Binary Search Tree-2(7), Binary Search Tree-2(8), Binary Tee (Misc)(4) <br>
