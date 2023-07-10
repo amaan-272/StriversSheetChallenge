@@ -200,11 +200,18 @@ Rank after completion: 116 <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Recursion, Recursion & Backtracking, Binary Search, Heaps, Stack & Queue-1, Stack & Queue-2, String-1, String-2, Binary Tree-1, Binary Tree-3, Graph-1 <br>
 Difficulty faced: Greedy Algorithm (1), Binary Tree-2(2), Binary Search Tree-1(5), Binary Search Tree-1(6), Binary Search Tree-2(7), Binary Search Tree-2(8), Binary Tee (Misc)(4), Graph-2(6), Dynamic Programming-1(2) <br>
 
-----
-Day 22 (July 11):  <br> 
-Questions Today:  (E, M, H) <br>
-Total Questions: 165(171) (56E, 94M, 15H) [89.67%] [93.33%,91.26%,71.43%]<br>
-Rank before starting: 116 <br>
-Rank after completion:  <br>
-Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Recursion, Recursion & Backtracking, Binary Search, Heaps, Stack & Queue-1, Stack & Queue-2, String-1, String-2, Binary Tree-1, Binary Tree-3, Graph-1 <br>
+Day 22-1 (July 11-1): Solved remaining 3 from Dynamic Programming-2 and 1 from Trie (Maximum Profit in Job Scheduling was a duplicate) <br> 
+Questions Today: 4 (1M, 3H) <br>
+Total Questions: 169(176) (56E, 95M, 18H) [91.85%] [93.33%,92.23%,85.71%]<br>
+Rank before starting: 117 <br>
+Rank after completion: 114 <br>
+Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Recursion, Recursion & Backtracking, Binary Search, Heaps, Stack & Queue-1, Stack & Queue-2, String-1, String-2, Binary Tree-1, Binary Tree-3, Graph-1, Dynamic Programming-2 <br>
+Difficulty faced: Greedy Algorithm (1), Binary Tree-2(2), Binary Search Tree-1(5), Binary Search Tree-1(6), Binary Search Tree-2(7), Binary Search Tree-2(8), Binary Tee (Misc)(4), Graph-2(6), Dynamic Programming-1(2) <br>
+
+Day 22-2 (July 11-2): Solved remaining 6 from Trie <br> 
+Questions Today: 6 (4M, 2H) <br>
+Total Questions: 175(182) (57E, 98M, 20H) [95.11%] [95%,95.15%,95.24%]<br>
+Rank before starting: 114 <br>
+Rank after completion: 110 <br>
+Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Recursion, Recursion & Backtracking, Binary Search, Heaps, Stack & Queue-1, Stack & Queue-2, String-1, String-2, Binary Tree-1, Binary Tree-3, Graph-1, Dynamic Programming-2, Trie <br>
 Difficulty faced: Greedy Algorithm (1), Binary Tree-2(2), Binary Search Tree-1(5), Binary Search Tree-1(6), Binary Search Tree-2(7), Binary Search Tree-2(8), Binary Tee (Misc)(4), Graph-2(6), Dynamic Programming-1(2) <br>
