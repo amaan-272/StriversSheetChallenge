@@ -180,6 +180,6 @@ Day 21 (July 10): <br>
 Questions Today:  (E, M, H) <br>
 Total Questions: 148(153) (56E, 78M, 14H) [80.43%] [93.33%,75.73%,66.67%]<br>
 Rank before starting: 150 <br>
-Rank after completion: 145 <br>
+Rank after completion:  <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Recursion, Recursion & Backtracking, Binary Search, Heaps, Stack & Queue-1, Stack & Queue-2, String-1, String-2, Binary Tree-1, Binary Tree-3 <br>
 Difficulty faced: Greedy Algorithm (1), Binary Tree-2(2), Binary Search Tree-1(5), Binary Search Tree-1(6), Binary Search Tree-2(7), Binary Search Tree-2(8), Binary Tee (Misc)(4) <br>
