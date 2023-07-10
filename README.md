@@ -199,3 +199,12 @@ Rank before starting: 128 <br>
 Rank after completion: 116 <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Recursion, Recursion & Backtracking, Binary Search, Heaps, Stack & Queue-1, Stack & Queue-2, String-1, String-2, Binary Tree-1, Binary Tree-3, Graph-1 <br>
 Difficulty faced: Greedy Algorithm (1), Binary Tree-2(2), Binary Search Tree-1(5), Binary Search Tree-1(6), Binary Search Tree-2(7), Binary Search Tree-2(8), Binary Tee (Misc)(4), Graph-2(6), Dynamic Programming-1(2) <br>
+
+----
+Day 22 (July 11):  <br> 
+Questions Today:  (E, M, H) <br>
+Total Questions: 165(171) (56E, 94M, 15H) [89.67%] [93.33%,91.26%,71.43%]<br>
+Rank before starting: 116 <br>
+Rank after completion:  <br>
+Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Recursion, Recursion & Backtracking, Binary Search, Heaps, Stack & Queue-1, Stack & Queue-2, String-1, String-2, Binary Tree-1, Binary Tree-3, Graph-1 <br>
+Difficulty faced: Greedy Algorithm (1), Binary Tree-2(2), Binary Search Tree-1(5), Binary Search Tree-1(6), Binary Search Tree-2(7), Binary Search Tree-2(8), Binary Tee (Misc)(4), Graph-2(6), Dynamic Programming-1(2) <br>
