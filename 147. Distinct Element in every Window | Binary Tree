@@ -1,0 +1,14 @@
+//CodeStudio Code
+#include <bits/stdc++.h> 
+vector<int> countDistinctElements(vector<int> &arr, int k)  {
+    vector<int> ans;
+    unordered_map<int, int> nums;
+    for(int i {}; i < arr.size(); i++){
+        nums[arr[i]]++;
+        if(i >= k-1){
+            ans.push_back(nums.size());
+            if(--nums[arr[i-k+1]] == 0) nums.erase(arr[i-k+1]);
+        }
+    }
+    return ans;
+}
