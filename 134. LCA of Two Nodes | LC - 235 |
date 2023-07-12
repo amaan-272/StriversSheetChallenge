@@ -1,0 +1,28 @@
+//CodeStudio Code 
+TreeNode<int>* LCAinaBST(TreeNode<int>* root, TreeNode<int>* p, TreeNode<int>* q) {
+	TreeNode<int>* curr = root;
+    while(curr){
+        if(curr->data>p->data && curr->data>q->data) curr = curr->left;
+        else if(curr->data<p->data && curr->data<q->data) curr = curr->right;
+        else return curr;
+    }
+    return NULL;
+}
+
+//LeetCode Code
+class Solution {
+public:
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        if(!root) return root;
+        if(root == p) return root;
+        if(root == q) return root;
+        int leftVal = min(p->val, q->val), rightVal = max(p->val, q->val);
+        while(true) {
+            if(root == p) return root;
+            if(root == q) return root;
+            if(leftVal<root->val && rightVal>root->val) return root;
+            if(leftVal > root->val) root = root->right;
+            if(rightVal < root->val) root = root->left;
+        }
+    }
+};
