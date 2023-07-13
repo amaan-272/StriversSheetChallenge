@@ -231,4 +231,4 @@ Rank before starting: 99 <br>
 Rank after completion: 96 <br>
 Completed Sets: Array-1, Array-2, Array-3, Array-4, Linked List-1, Linked List-2, Linked List & Arrays, Greedy Algorithm, Recursion, Recursion & Backtracking, Binary Search, Heaps, Stack & Queue-1, Stack & Queue-2, String-1, String-2, Binary Tree-1, Binary Tree-2, Binary Tree-3, Binary Search Tree-1, Binary Search Tree-2, Graph-1, Graph-2, Dynamic Programming-1, Dynamic Programming-2, Trie <br>
 
-Spreadsheet Containing Daily Updates: 
+Spreadsheet Containing Daily Updates: https://docs.google.com/spreadsheets/d/1zXYlP31-P-JJP5viOdAriVi0YqFve47w6kfHIRMAzM4/edit?usp=sharing
